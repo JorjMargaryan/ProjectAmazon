@@ -1,0 +1,5 @@
+_logs_/
+_reports_/
+_tempFiles_/
+.idea/
+*.pyc
